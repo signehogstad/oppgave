@@ -1,0 +1,2 @@
+# oppgave
+Oppgave på teknakurs.
