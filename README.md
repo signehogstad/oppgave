@@ -1,3 +1,2 @@
 # oppgave
 Oppgave på teknakurs.
-
